@@ -117,3 +117,5 @@ session-*
 *.txt
 !requirements.txt
 !README.md
+
+.env.example
